@@ -1,0 +1,25 @@
+*{
+    color: rgb(167, 69, 51);
+}
+h1{
+    color: red;
+}
+
+h2{
+    color: rgb(202, 39, 39);
+    font-style: italic;
+}
+u{
+    font-style: italic;
+}
+span{
+    background-color: yellow;
+    font-weight: bold;
+}
+ul{
+    letter-spacing: 3.5px;
+}
+a{
+    font-style: italic;
+    background-color: yellow;
+}
